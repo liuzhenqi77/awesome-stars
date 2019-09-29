@@ -98,6 +98,8 @@
 - [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.  
 
 ## C++
+- [DALI](https://github.com/NVIDIA/DALI) - A library containing both highly optimized building blocks and an execution engine for data pre-processing in deep learning applications  
+- [open_spiel](https://github.com/deepmind/open_spiel) - OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.  
 - [ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth  
 - [ihmehimmeli](https://github.com/google/ihmehimmeli) -   
 - [Teach-Repeat-Replan](https://github.com/HKUST-Aerial-Robotics/Teach-Repeat-Replan) - Teach-Repeat-Replan: A Complete and Robust System for Aggressive Flight in Complex Environments  
@@ -308,6 +310,7 @@
 - [awesome-open-science](https://github.com/silky/awesome-open-science) - some links to projects/tools related to &#34;open science&#34;.  
 
 ## Java
+- [Mindustry](https://github.com/Anuken/Mindustry) - A sandbox tower defense game  
 - [grakn](https://github.com/graknlabs/grakn) - Grakn Core: The Knowledge Graph  
 - [cello](https://github.com/CIDARLAB/cello) - Genetic circuit design automation  
 - [zotfile](https://github.com/jlegewie/zotfile) - Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.  
@@ -429,6 +432,7 @@
 - [pythonidae](https://github.com/svaksha/pythonidae) - Curated decibans of scientific programming resources in Python.  
 
 ## Jupyter Notebook
+- [matplotlib-gallery](https://github.com/rasbt/matplotlib-gallery) - Examples of matplotlib codes and plots  
 - [joypy](https://github.com/sbebo/joypy) - Joyplots in Python with matplotlib & pandas :chart_with_upwards_trend:  
 - [saxpy](https://github.com/seninp/saxpy) - Symbolic Aggregate approXimation, HOT-SAX, and SAX-VSM implementation in Python  
 - [DGL-GTC2019](https://github.com/dglai/DGL-GTC2019) - Materials for DGL Instructor-led training at GTC 2019  
@@ -617,6 +621,7 @@
 - [dactyl-keyboard](https://github.com/adereth/dactyl-keyboard) - Parameterized ergonomic keyboard  
 
 ## Others
+- [transformers](https://github.com/sannykim/transformers) - A collection of resources to study Transformers in depth.  
 - [awesome-deepbio](https://github.com/gokceneraslan/awesome-deepbio) - A curated list of awesome deep learning applications in the field of computational biology  
 - [awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub  
 - [RaymarchingWorkshop](https://github.com/ajweeks/RaymarchingWorkshop) - An Introduction to Raymarching  
@@ -820,6 +825,7 @@
 - [scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.  
 
 ## Python
+- [Efficient-PyTorch](https://github.com/Lyken17/Efficient-PyTorch) - My best practice of training large dataset using PyTorch.  
 - [DeepESN](https://github.com/lucapedrelli/DeepESN) - Deep Echo State Network (DeepESN) Python library  
 - [pyquil](https://github.com/rigetti/pyquil) - A Python library for quantum programming using Quil.  
 - [entropica_qaoa](https://github.com/entropicalabs/entropica_qaoa) - EntropicaQAOA is a modular package for the quantum approximate optimisation algorithm (QAOA) built on top of Rigetti’s Forest SDK.  
@@ -906,7 +912,7 @@
 - [gated-graph-transformer-network](https://github.com/hexahedria/gated-graph-transformer-network) - Code to accompany the paper &#34;Learning Graphical State Transitions&#34;  
 - [KnowledgeGraphEmbedding](https://github.com/DeepGraphLearning/KnowledgeGraphEmbedding) -   
 - [munkres](https://github.com/bmc/munkres) - Munkres algorithm for Python  
-- [ray](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications.  
+- [ray](https://github.com/ray-project/ray) - A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.  
 - [dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models  
 - [datalad](https://github.com/datalad/datalad) - Keep scientific data under control with git  and git-annex  
 - [Generative-Adversarial-Networks-Roadmap](https://github.com/machinelearningmindset/Generative-Adversarial-Networks-Roadmap) - The Roadmap to Learn Generative Adversarial Networks (GANs)  
